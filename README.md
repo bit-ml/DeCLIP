@@ -15,12 +15,6 @@ To set up your data, follow these steps:
 1. **Download the datasets:**
    - **Dolos Dataset:** Follow instructions from [Dolos GitHub repo](https://github.com/bit-ml/dolos)
    - **AutoSplice Dataset:** Follow instructions from [AutoSplice GitHub repo](https://github.com/shanface33/AutoSplice_Dataset)
-   - **LDM\clean and LDM\real for Dolos Dataset:** [Download from Google Cloud Storage](https://storage.cloud.google.com/bitdefender_ml_artifacts/declip/ldm_variants.zip)
-
-   (The data from Google Cloud Storage cand be downloaded using these commands as well: )
-   ```bash
-   gsutil cp gs://bitdefender_ml_artifacts/declip/ldm_variants.zip . 
-   ```
 
 2. **Organize the data:**
 
@@ -35,8 +29,6 @@ To set up your data, follow these steps:
    │   │   │   ├── fake/
    │   │   │   │   ├── lama/
    │   │   │   │   ├── ldm/
-   │   │   │   │   ├── ldm_clean/
-   │   │   │   │   ├── ldm_real/
    │   │   │   │   ├── pluralistic/
    │   │   │   │   ├── repaint-p2-9k/
    │   │   │   ├── real/

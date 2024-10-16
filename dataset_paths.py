@@ -28,8 +28,9 @@ LOCALISATION_DATASET_PATHS = [
     get_dolos_localisation_dataset_paths('lama'),
     get_dolos_localisation_dataset_paths('repaint-p2-9k'),
     get_dolos_localisation_dataset_paths('ldm'),
-    get_dolos_localisation_dataset_paths('ldm_clean'),
-    get_dolos_localisation_dataset_paths('ldm_real'),
+    # TO BE PUBLISHED
+    # get_dolos_localisation_dataset_paths('ldm_clean'),
+    # get_dolos_localisation_dataset_paths('ldm_real'),
 
     get_autosplice_localisation_dataset_paths("75"),
     get_autosplice_localisation_dataset_paths("90"),
@@ -42,6 +43,7 @@ DETECTION_DATASET_PATHS = [
     get_dolos_detection_dataset_paths('lama'),
     get_dolos_detection_dataset_paths('repaint-p2-9k'),
     get_dolos_detection_dataset_paths('ldm'),
-    get_dolos_detection_dataset_paths('ldm_clean'),
-    get_dolos_detection_dataset_paths('ldm_real'),
+    # TO BE PUBLISHED
+    # get_dolos_detection_dataset_paths('ldm_clean'),
+    # get_dolos_detection_dataset_paths('ldm_real'),
 ]
