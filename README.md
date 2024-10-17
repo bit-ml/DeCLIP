@@ -141,7 +141,7 @@ If you find this work useful in your research, please cite it.
 
 ```
 @InProceedings{DeCLIP,
-    author    = {Smeu, Ștefan and Oneaț\u{a}, Elisabeta and Oneaț\u{a}, Dan},
+    author    = {Smeu, Stefan and Oneata, Elisabeta and Oneata, Dan},
     title     = {DeCLIP: Decoding CLIP representations for deepfake localization},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     year      = {2025}
