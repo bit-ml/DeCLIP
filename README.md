@@ -5,7 +5,7 @@
 **Official PyTorch Implementation of the Paper:**
 
 > **Ștefan Smeu, Elisabeta Oneață, Dan Oneață**  
-> [DeCLIP: Decoding CLIP Representations for Deepfake Localization](https://arxiv.org/pdf/2311.04584)  
+> [DeCLIP: Decoding CLIP Representations for Deepfake Localization](https://arxiv.org/pdf/2409.08849)  
 > *WACV, 2025*
 
 ## Data
