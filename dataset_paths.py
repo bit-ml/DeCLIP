@@ -8,8 +8,8 @@ def get_dolos_localisation_dataset_paths(dataset):
 
 def get_dolos_detection_dataset_paths(dataset):
     paths = dict(
-        real_path=f'datasets/dolos_data/celebahq/fake/{dataset}/images/test',
-        fake_path=f'datasets/dolos_data/celebahq/real/{dataset}/test',
+        real_path=f'datasets/dolos_data/celebahq/real/{dataset}/test',
+        fake_path=f'datasets/dolos_data/celebahq/fake/{dataset}/images/test',
         masks_path=f'datasets/dolos_data/celebahq/fake/{dataset}/masks/test',
         key=dataset
     ),
